@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gunt
+ *
+ */
+module javaprojects {
+}
